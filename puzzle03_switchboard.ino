@@ -1,9 +1,10 @@
- /*
- References 
- https://www.arduino.cc/en/tutorial/switch
- http://www.arduino.cc/en/Tutorial/Button
- https://learn.adafruit.com/adafruit-circuit-playground-express?view=all#downloads
- */
+/*
+  Puzzle #3: Switchboard
+  References:
+  https://www.arduino.cc/en/tutorial/switch
+  http://www.arduino.cc/en/Tutorial/Button
+  https://learn.adafruit.com/adafruit-circuit-playground-express?view=all#downloads
+*/
  
 #include <Adafruit_CircuitPlayground.h>
 
